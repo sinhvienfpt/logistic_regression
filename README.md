@@ -1,4 +1,5 @@
 # Logistic Regression Implementation
+This is my week 2 programing assignment of DL course on Coursera.
 - [Logistic Regression Implementation](#logistic-regression-implementation)
   - [Binary Classification](#binary-classification)
   - [Logistic Regression](#logistic-regression)
@@ -14,8 +15,7 @@
 
 Given an image how can we determine it is a cat (1) or non-cat (0).
 
-<!-- Image -->
-
+![orange milk cat](./images/orange_cat.jpg)
 - Input (X): A random image
 
 - Output (Y): 1 for cat, 0 otherwise.
@@ -50,7 +50,7 @@ The target that we are finding is a function which return the **possibility of b
 
     ${ŷ} = \sigma(z)$
 
-    ![sigmoid function image](./images//Sigmoid_Function.png)
+    ![sigmoid function image](./images/sigmoid.png)
 
 
 
